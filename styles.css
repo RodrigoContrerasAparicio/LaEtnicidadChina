@@ -1,0 +1,92 @@
+h1 {
+  text-decoration: underline;
+}
+body {
+  background-color: #eae4dd;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p {
+  font-size: 50px;
+  color: #295f98;
+  font-weight: bold;
+  text-align: center;
+}
+.ima1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ima1 img {
+  height: 200px;
+  margin-top: 100px;
+}
+.enlace {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enlace a {
+  font-size: 40px;
+  color: #295f98;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.conten1 {
+  display: flex;
+  font-size: 80px;
+  font-weight: bold;
+  color: #196ac1;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.sub1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub1 p {
+  font-size: 30px;
+  color: #295f98;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.sub1 img {
+  height: 300px;
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 50px;
+}
+.conten2 {
+  display: flex;
+  font-size: 80px;
+  font-weight: bold;
+  color: #196ac1;
+  margin-right: 20px;
+  margin-top: 20px;
+  justify-content: right;
+}
+.sub2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub2 p {
+  font-size: 30px;
+  color: #295f98;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.sub2 img {
+  height: 300px;
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 50px;
+}
